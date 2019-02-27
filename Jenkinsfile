@@ -5,4 +5,7 @@ node {
     stage("Estado Test"){
         println "Mira lo que puedo hacer ${2+2} simplemente con el dolar y las llaves"  
     }
+    stage("Estado Deploy"){
+        println "Mira lo que puedo hacer ${2+2} simplemente con el dolar y las llaves"  
+    }    
 }
