@@ -1,1 +1,2 @@
 Se crearán los comandos para manejo de deployment en BD remoto
+Se crea la rama de almacenamiento solo de Store Procedure
